@@ -601,8 +601,10 @@ footer p{
     }
 
     /* Header */
+    .home-header{
         -webkit-background-position: 20%;
         -webkit-background-size: cover;
+    }
     /* About */
     .about-me{
         display: flex;

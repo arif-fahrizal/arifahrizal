@@ -101,7 +101,7 @@ nav ul li a h4{
     width: 100%;
     min-height: 110dvh;
     background-color: var(--bg-color);
-    background-image: url(./images/ad.jpg);
+    background-image: url(ad.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -148,7 +148,7 @@ nav ul li a h4{
 
 .about-me .profile{
     background-color: var(--bg-color);
-    background-image: url(./images/ops.png);
+    background-image: url(ops.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 90%;

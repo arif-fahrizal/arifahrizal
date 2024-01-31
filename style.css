@@ -150,7 +150,7 @@ nav ul li a h4{
     background-image: url(ops.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 90%;
+    background-size: cover;
     background-blend-mode: multiply;
 }
 
@@ -601,9 +601,9 @@ footer p{
     }
 
     /* Header */
-    .home-header{
+/*     .home-header{
         background-size: 70%;
-    }
+    } */
 
     
     /* About */

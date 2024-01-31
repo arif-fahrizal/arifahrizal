@@ -704,6 +704,7 @@ footer p{
     /* Header */
     .home-header{
         background-position: 20%;
+        background-attachment: inherit;
     }
 
     
